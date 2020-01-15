@@ -1,0 +1,1 @@
+// username, stock image, delete button, 
